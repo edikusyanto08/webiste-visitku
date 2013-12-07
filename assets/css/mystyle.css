@@ -1,0 +1,79 @@
+/* CSS Document */
+.well-cari {
+  min-height: 20px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  border: 4px solid #dd4814;
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.well-wisata {
+  min-height: 20px;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: #EED214;
+  border: 7px solid #FFFFFF;
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.well-hotel {
+  min-height: 20px;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: #EED214;
+  border: 7px solid #FFFFFF;
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.well-makan {
+  min-height: 20px;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: #EED214;
+  border: 7px solid #FFFFFF;
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.well-promo {
+  min-height: 20px;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  border: 5px solid #1C81AA;
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.well-footer {
+  min-height: 20px;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  border: 5px solid #dd4814;
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.btn-success-dl {
+  color: #ffffff;
+  background-color: #1C81AA;
+  border-color: #1C81AA;
+}
+
+.btn-success-well {
+  color: #ffffff;
+  background-color: #64B646;
+  border-color: #64B646;
+}
+
